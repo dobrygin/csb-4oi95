@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,KACE,sBACF,CAEA,aAEE,iBAAkB,CAClB,MACF","file":"main.6d0be112.chunk.css","sourcesContent":["body {\n  font-family: sans-serif;\n}\n\nvideo,\ncanvas {\n  position: absolute;\n  left: 0;\n}\n"]}
